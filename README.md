@@ -1,3 +1,6 @@
+# AWS CDK TUTORIAL
+AWS CDK tutorial from https://docs.aws.amazon.com/cdk/v2/guide/hello_world.html
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
